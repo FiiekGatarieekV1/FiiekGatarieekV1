@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://giphy.com/embed/GYtblmdLnemlO" width="420"/>
+<img src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif" width="420"/>
 
 ## Fiie ⛩️
 
@@ -13,17 +13,17 @@
 
 ---
 
-Saya masih belajar sebagai developer dengan fokus membangun **aplikasi web** dan **admin system** yang:
+Saya masih belajar sebagai developer, dengan fokus membangun aplikasi web dan admin system yang:
 
 - rapi secara struktur  
 - mudah dipahami  
 - mudah dikembangkan ke depannya  
 
-Saya lebih mengutamakan **kejelasan kode** dibandingkan solusi yang rumit atau berlebihan.
+Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 
 ---
 
-## 🎮 GitHub Activity
+##  GitHub Activity
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Saya lebih mengutamakan **kejelasan kode** dibandingkan solusi yang rumit atau b
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Language**: JavaScript  
 - **Frontend**: Next.js, React  
@@ -44,7 +44,7 @@ Saya lebih mengutamakan **kejelasan kode** dibandingkan solusi yang rumit atau b
 
 ---
 
-## 🌱 Learning Focus
+##  Learning Focus
 
 - Admin Dashboard  
 - Authentication  
@@ -56,4 +56,4 @@ Saya lebih mengutamakan **kejelasan kode** dibandingkan solusi yang rumit atau b
 > **「継続は力なり」**  
 > Konsistensi adalah kekuatan.
 
-Terima kasih sudah meluangkan waktu untuk melihat profil ini.
+Terima kasih sudah melihat profil ini.
