@@ -1,35 +1,47 @@
-## Fiie ⛩️
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=3000&pause=800&color=000000&width=420&lines=Fullstack+Developer;Web+%26+Admin+Systems;Belajar+sedikit+demi+sedikit" />
-</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
 </p>
 
-## Fiie ⛩️
-Fullstack Developer — Web & Admin Systems
+<h2 align="center">Fiie ⛩️</h2>
 
-静かに、正確に、堅実に。  
-(Sunyi, tepat, dan konsisten)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=15&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=420&lines=Fullstack+Developer;Web+%26+Admin+Systems;Belajar+sedikit+demi+sedikit" />
+</p>
 
-Saya masih belajar sebagai developer, fokus membangun aplikasi web dengan struktur yang rapi dan mudah dipahami.
+<p align="center">
+静かに、正確に、堅実に。<br/>
+<i>(Sunyi, tepat, dan konsisten)</i>
+</p>
+
+---
+
+Saya masih belajar sebagai developer, dengan fokus membangun aplikasi web dan admin system yang **rapi**, **mudah dipahami**, dan **mudah dikembangkan ke depannya**.
+
+Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 
 ---
 
 ### 🎮 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
-### Tech Stack
-Nganggur
-Malas Ngoding
+### 🛠 Tech Stack
+- JavaScript
+- Next.js, React
+- Node.js, Laravel
+- PostgreSQL, MySQL
 
 ---
 
-### Learning Focus
+### 🌱 Learning Focus
 - Admin Dashboard
 - Authentication
 - REST API
@@ -39,3 +51,5 @@ Malas Ngoding
 
 > 「継続は力なり」  
 > Konsistensi adalah kekuatan.
+
+Terima kasih sudah melihat profil ini.
