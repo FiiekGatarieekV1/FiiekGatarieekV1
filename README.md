@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280"/>
+  <img src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdkaXB5bmFjejVhdW0yb2xhYjBybjJhd29uOTkwcWpoeXB0Y2YxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif)" width="280"/>
 </p>
 
 <h2 align="center">Fiie ⛩️</h2>
