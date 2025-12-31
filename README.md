@@ -23,15 +23,12 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 
 ---
 
-##  GitHub Activity
+## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=FiiekGatarieekV1&hide_border=true" />
 </div>
+
 
 ---
 
