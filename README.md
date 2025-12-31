@@ -4,7 +4,17 @@ Fullstack Developer — Web & Admin Systems
 静かに、正確に、堅実に。  
 (Sunyi, tepat, dan konsisten)
 
-Saya membangun aplikasi web dengan fokus pada struktur yang rapi, mudah dirawat, dan siap dikembangkan dalam jangka panjang.
+Saya membangun aplikasi web dengan fokus pada struktur yang rapi dan siap dikembangkan. Seperti menyusuri taman Zen, setiap langkah kecil berarti.
+
+---
+
+### 🎮 GitHub Stats (Seperti Game Progress)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FiiekGatarieekV1&theme=radical)
+
+*Stats ini menunjukkan aktivitas dan bahasa utama yang saya gunakan secara real time.*
 
 ---
 
@@ -16,35 +26,14 @@ Saya membangun aplikasi web dengan fokus pada struktur yang rapi, mudah dirawat,
 
 ---
 
-### Focus
-- Admin Dashboard
-- Authentication & Authorization
-- REST API
-- Clean Architecture
-
-Saya lebih mengutamakan kode yang jelas dan stabil daripada solusi yang rumit tapi sulit dirawat.
-
----
-
 ### Selected Projects
-- **Admin Dashboard**  
-  Dashboard internal dengan role-based access dan struktur modular.
-
-- **Authentication System**  
-  Sistem login, middleware, dan manajemen sesi.
-
-- **REST API**  
-  CRUD API dengan pola clean architecture.
-
----
-
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&hide_border=true)
+- **Admin Dashboard** — dashboard internal modular
+- **Authentication System** — login dan manajemen sesi
+- **REST API** — CRUD API dengan struktur bersih
 
 ---
 
 > 「継続は力なり」  
 > Konsistensi adalah kekuatan.
 
-Terima kasih sudah melihat profil ini.
+Terima kasih telah melihat profil ini.
