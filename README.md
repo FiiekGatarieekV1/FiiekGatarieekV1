@@ -1,39 +1,35 @@
 ## Fiie ⛩️
-Fullstack Developer — Web & Admin Systems
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=3000&pause=800&color=000000&width=420&lines=Fullstack+Developer;Web+%26+Admin+Systems;Belajar+sedikit+demi+sedikit" />
+</p>
 
 静かに、正確に、堅実に。  
 (Sunyi, tepat, dan konsisten)
 
-Saya membangun aplikasi web dengan fokus pada struktur yang rapi dan siap dikembangkan. Seperti menyusuri taman Zen, setiap langkah kecil berarti.
+Saya masih belajar sebagai developer, fokus membangun aplikasi web dengan struktur yang rapi dan mudah dipahami.
 
 ---
 
-### 🎮 GitHub Stats (Seperti Game Progress)
+### 🎮 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FiiekGatarieekV1&theme=radical)
-
-*Stats ini menunjukkan aktivitas dan bahasa utama yang saya gunakan secara real time.*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&hide_border=true)
 
 ---
 
 ### Tech Stack
-- JavaScript / TypeScript
-- Next.js, React
-- Node.js, Laravel
-- PostgreSQL, MySQL
+Nganggur
+Malas Ngoding
 
 ---
 
-### Selected Projects
-- **Admin Dashboard** — dashboard internal modular
-- **Authentication System** — login dan manajemen sesi
-- **REST API** — CRUD API dengan struktur bersih
+### Learning Focus
+- Admin Dashboard
+- Authentication
+- REST API
+- Clean code dasar
 
 ---
 
 > 「継続は力なり」  
 > Konsistensi adalah kekuatan.
-
-Terima kasih telah melihat profil ini.
