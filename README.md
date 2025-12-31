@@ -1,84 +1,50 @@
-<!-- Header -->
-<h1 align="center">⛩️ Fiie | Fullstack Developer</h1>
-<p align="center">
-  静かに、正確に、堅実に。<br/>
-  <i>Building clean, scalable, and reliable web systems</i>
-</p>
+## Fiie ⛩️
+Fullstack Developer — Web & Admin Systems
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2"/>
-</p>
+静かに、正確に、堅実に。  
+(Sunyi, tepat, dan konsisten)
+
+Saya membangun aplikasi web dengan fokus pada struktur yang rapi, mudah dirawat, dan siap dikembangkan dalam jangka panjang.
 
 ---
 
-## 🧘 About Me
-私は **Fullstack Developer** dengan fokus pada pengembangan **Web & Admin System**.  
-Saya mengutamakan **clean architecture**, **maintainability**, dan **scalability**, seperti prinsip Zen: sederhana namun kuat.
-
-- 🌱 Fokus: Web Application & Admin Dashboard
-- 🏯 Prinsip: Clean Code • Struktur Jelas • Konsisten
-- 🚀 Goal: Membangun sistem yang stabil dan mudah dikembangkan
+### Tech Stack
+- JavaScript / TypeScript
+- Next.js, React
+- Node.js, Laravel
+- PostgreSQL, MySQL
 
 ---
 
-## 🏮 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0F172A?logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-1E293B?logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-14532D?logo=node.js"/>
-  <img src="https://img.shields.io/badge/Laravel-7F1D1D?logo=laravel"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-1F2937?logo=mysql"/>
-</p>
+### Focus
+- Admin Dashboard
+- Authentication & Authorization
+- REST API
+- Clean Architecture
+
+Saya lebih mengutamakan kode yang jelas dan stabil daripada solusi yang rumit tapi sulit dirawat.
 
 ---
 
-## ⛩️ Featured Projects
-**Pilihan project yang merepresentasikan kemampuan utama saya**
-
+### Selected Projects
 - **Admin Dashboard**  
-  Sistem dashboard dengan autentikasi, role management, dan UI terstruktur.
+  Dashboard internal dengan role-based access dan struktur modular.
 
 - **Authentication System**  
-  Login, register, middleware auth, dan session handling.
+  Sistem login, middleware, dan manajemen sesi.
 
 - **REST API**  
-  CRUD API dengan struktur clean architecture dan dokumentasi jelas.
-
-> Semua project dikembangkan dengan fokus **readability**, **security**, dan **scalability**.
+  CRUD API dengan pola clean architecture.
 
 ---
 
-## 📜 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiiekGatarieekV1&layout=compact&hide_border=true)
 
 ---
 
-## 🌸 Philosophy
-> 「少ないほど豊か」  
-> *Less, but better.*
+> 「継続は力なり」  
+> Konsistensi adalah kekuatan.
 
-Saya percaya sistem yang baik tidak harus rumit —  
-cukup **jelas**, **rapi**, dan **bisa bertahan lama**.
-
----
-
-## 📫 Contact
-<p align="center">
-  <a href="https://github.com/FiiekGatarieekV1">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⛩️ Terima kasih telah berkunjung<br/>
-  <i>May your code be clean and your deploy be peaceful</i>
-</p>
+Terima kasih sudah melihat profil ini.
