@@ -4,7 +4,7 @@
 
 ## Fiie ⛩️
 
-<img src="https://readme-typing-svg.herokuapp.com?size=15&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=420&lines=Fullstack+Developer;Web+%26+Admin+Systems;Belajar+sedikit+demi+sedikit" />
+<img src="https://readme-typing-svg.herokuapp.com?size=15&duration=3500&pause=900&color=000000&center=true&vCenter=true&width=420&lines=Fullstack+Developer;Web+%26+Admin+Systems;Belajar+sedikit+demi+sedikit](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXVsbDlxajc4bWJ1M3Jvd2xsd3ZnZzM4djNqZjB2NHVqem9zZ3dieiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EvHmfJn30ZcQsuILSk/giphy.gif" />
 
 **静かに、正確に、堅実に。**  
 <em>(Sunyi, tepat, dan konsisten)</em>
