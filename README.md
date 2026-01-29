@@ -26,12 +26,8 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 ## GitHub Stats
 
 
-  <iframe src="https://giphy.com/embed/l0Iya0vc4KAyfaSQM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/l0Iya0vc4KAyfaSQM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
-<p>
-  <img src="https://giphy.com/gifs/cute-moe-l0Iya0vc4KAyfaSQM">via GIPHY</a>
-</p>
-
 
 ---
 
