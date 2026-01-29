@@ -25,9 +25,7 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FiiekGatarieekV1&show_icons=true&hide_border=true" />
-</div>
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/l0Iya0vc4KAyfaSQM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-moe-l0Iya0vc4KAyfaSQM">via GIPHY</a></p>
 
 
 ---
