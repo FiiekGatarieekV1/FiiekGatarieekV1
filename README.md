@@ -26,7 +26,7 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://giphy.com/embed/l0Iya0vc4KAyfaSQM" width="100%" >
+  <img src="https://giphy.com/embed/l0Iya0vc4KAyfaSQM" width="30%" >
 </div>
 
 ---
