@@ -26,7 +26,7 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNvb2VrdW9iMWM3cjYyYXhiYzN5YW43amp4d3hwNGczNXRiaHNjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iya0vc4KAyfaSQM/giphy.gif" width="30%" >
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNvb2VrdW9iMWM3cjYyYXhiYzN5YW43amp4d3hwNGczNXRiaHNjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iya0vc4KAyfaSQM/giphy.gif" width="50%" >
 </div>
 
 ---
