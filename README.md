@@ -32,12 +32,12 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
 
 ---
 
-##  Tech Stack
+##  Progress Tech Stack
 
 - **Language**: JavaScript  
-- **Frontend**: Next.js, React  
-- **Backend**: Node.js, Laravel  
-- **Database**: PostgreSQL, MySQL  
+- **Frontend**: html, css, js  
+- **Backend**: Laravel, Wordpress, JS  
+- **Database**: MySQL  
 
 ---
 
