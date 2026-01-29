@@ -29,7 +29,7 @@ Saya lebih mengutamakan kejelasan kode daripada solusi yang rumit.
   <iframe src="https://giphy.com/embed/l0Iya0vc4KAyfaSQM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 <p>
-  <a href="https://giphy.com/gifs/cute-moe-l0Iya0vc4KAyfaSQM">via GIPHY</a>
+  <img src="https://giphy.com/gifs/cute-moe-l0Iya0vc4KAyfaSQM">via GIPHY</a>
 </p>
 
 
