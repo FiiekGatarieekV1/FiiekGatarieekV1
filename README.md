@@ -4,7 +4,7 @@
 
 ## ⛩️ Fiie ⛩️
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ5cTQweXozZGNsNWl1ejJ4bzk4YmNxYXAzNXM0bzZwOHd1eXV4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91BCkba1STSmzb4UWK/giphy.gif" width= "50%"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHQ5cTQweXozZGNsNWl1ejJ4bzk4YmNxYXAzNXM0bzZwOHd1eXV4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91BCkba1STSmzb4UWK/giphy.gif" width= "30%"/>
 
 **静かに、正確に、堅実に。**  
 <em>(Sunyi, tepat, dan konsisten)</em>
